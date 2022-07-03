@@ -7,3 +7,4 @@ Docu entations to study :
 5 -> npm express-jwt = for cookie authentication handeling
 6 -> npm cookie-parser
 7 -> jwt token - jwt.io = for web token -- jwt are known as bearers they carry token info
+8 -> mongoose poppulate
